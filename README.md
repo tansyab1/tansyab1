@@ -1,4 +1,4 @@
-### Welcome to Tan Sy's GitHub 👋
+<img alt="Night Coding" src="./assets/handwave.gif" width='40' align="left"/><h2>Welcome to Tan Sy's GitHub</h2>
 
 ![](https://img.shields.io/badge/-Python-3626e3?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-MatLab-e5cd0c?style=flat-square&logo=MatLab&logoColor=fff)
@@ -46,7 +46,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tan-sy-nguyen-06a53b19b/"><img src="https://img.shields.io/badge/-tansynguyen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
