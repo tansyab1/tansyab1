@@ -3,7 +3,7 @@
 
 ### Glad to see you here!
 
-I'm a first year student pursuing PhD's in Computer Science 🎓 from Université Sorbonne Paris Nord 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Computer Vision 🕸️ and working on my Data Structures and Algorithms 🤓.
+_"I'm a first year student pursuing PhD's in Computer Science 🎓 from Université Sorbonne Paris Nord 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Computer Vision 🕸️ and working on my Data Structures and Algorithms 🤓."_
 
 Joined Github **3** years ago.
 
