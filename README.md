@@ -1,9 +1,9 @@
 <img alt="Night Coding" src="./assets/Tan sy nguyen data-scientist3.gif" align="center"/>
 <img alt="Night Coding" src="./assets/handwave.gif" width='40' align="left"/><h2>Welcome to Tan Sy's GitHub</h2>
 
-<a href="https://github.com/tansyab1/issues"><img src="https://img.shields.io/github/issues/tansyab1/tansyab1" alt="Issues Badge"/></a>
-<a href="https://github.com/tansyab1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tansyab1/tansyab1?color=2b9348"></a>
-<a href="https://github.com/tansyab1/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tansyab1/tansyab1?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/tansyab1/tansyab1/issues"><img src="https://img.shields.io/github/issues/tansyab1/tansyab1" alt="Issues Badge"/></a>
+<a href="https://github.com/tansyab1/tansyab1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tansyab1/tansyab1?color=2b9348"></a>
+<a href="https://github.com/tansyab1/tansyab1/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tansyab1/tansyab1?color=2b9348" alt="License Badge"/></a>
 
 
 ![](https://img.shields.io/badge/-Python-3626e3?style=flat-square&logo=Python&logoColor=fff)
