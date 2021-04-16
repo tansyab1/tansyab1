@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/banner.gif" align="center"/>
+<img alt="Night Coding" src="./assets/Tan sy nguyen data-scientist3.gif" align="center"/>
 <img alt="Night Coding" src="./assets/handwave.gif" width='40' align="left"/><h2>Welcome to Tan Sy's GitHub</h2>
 
 ![](https://img.shields.io/badge/-Python-3626e3?style=flat-square&logo=Python&logoColor=fff)
