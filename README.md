@@ -1,8 +1,8 @@
 <img alt="Night Coding" src="./assets/Tan sy nguyen data-scientist3.gif" align="center"/>
 <img alt="Night Coding" src="./assets/handwave.gif" width='40' align="left"/><h2>Welcome to Tan Sy's GitHub</h2>
 
-<a href="https://github.com/tansyab1/tansyab1/stargazers"><img src="https://img.shields.io/github/stars/tansyab1" alt="Stars Badge"/></a>
-<a href="https://github.com/tansyab1/tansyab1/network/members"><img src="https://img.shields.io/github/forks/tansyab1" alt="Forks Badge"/></a>
+<a href="https://github.com/tansyab1/tansyab1/stargazers"><img src="https://img.shields.io/github/stars/tansyab1/tansyab1" alt="Stars Badge"/></a>
+<a href="https://github.com/tansyab1/tansyab1/network/members"><img src="https://img.shields.io/github/forks/tansyab1/tansyab1" alt="Forks Badge"/></a>
 <a href="https://github.com/tansyab1/tansyab1/pulls"><img src="https://img.shields.io/github/issues-pr/tansyab1/tansyab1" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/tansyab1/tansyab1/issues"><img src="https://img.shields.io/github/issues/tansyab1/tansyab1" alt="Issues Badge"/></a>
 <a href="https://github.com/tansyab1/tansyab1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tansyab1/tansyab1?color=2b9348"></a>
