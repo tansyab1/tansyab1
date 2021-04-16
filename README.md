@@ -1,9 +1,10 @@
 
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tansyab1&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<radical>" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tan Sy's GitHub Stats" />
+</a>
 
 ### Welcome to Tan Sy's GitHub 👋
 
