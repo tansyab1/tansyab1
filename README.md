@@ -57,7 +57,7 @@
 <p align="center">
 <a href="https://github.com/tansyab1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tansyab1&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tansyab1&layout=compact&langs_count=8&text_color=fff&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tansyab1&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 </a>
 </p>
 
