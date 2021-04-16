@@ -1,6 +1,12 @@
 <img alt="Night Coding" src="./assets/Tan sy nguyen data-scientist3.gif" align="center"/>
 <img alt="Night Coding" src="./assets/handwave.gif" width='40' align="left"/><h2>Welcome to Tan Sy's GitHub</h2>
 
+### Glad to see you here!
+
+I'm a first year student pursuing PhD's in Computer Science 🎓 from Université Sorbonne Paris Nord 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Computer Vision 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+Joined Github **3** years ago.
+
 ![](https://visitor-badge.glitch.me/badge?page_id=tansyab1.tansyab1)
 <a href="https://github.com/tansyab1/tansyab1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tansyab1/tansyab1?color=2b9348"></a>
 <a href="https://github.com/tansyab1/tansyab1/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tansyab1/tansyab1?color=2b9348" alt="License Badge"/></a>
