@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tansyab1&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </a>
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<radical>" />
 
 ### Welcome to Tan Sy's GitHub 👋
 
@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/-TensorFlow-e39b26?style=flat-square&logo=TensorFlow&logoColor=fff)
 
 <!--
-**thuyngch/thuyngch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tansyab1/tansyab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
